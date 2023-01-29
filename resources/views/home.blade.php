@@ -22,7 +22,7 @@
                     <div id="portfolio-filter" class="portfolio-filter">
                         <ul id="filter">
                             <li><a href="#" class="current" data-filter="*" title="">all</a></li>
-                            <li><a href="#" data-filter=".web" title="">Web Develop</a></li>
+                            <li><a href="#" data-filter=".web" title="">Web Dev.</a></li>
                             <li><a href="#" data-filter=".data" title="">Data Visualization</a></li>
                             <li><a href="#" data-filter=".graphic" title="">Graphic Design</a></li>
                         </ul>

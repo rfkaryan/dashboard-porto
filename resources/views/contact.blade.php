@@ -7,7 +7,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 parallax-fade-top">
-						<p>get in touch</p>	
+						<p>let's get in touch</p>	
 						<h2>Always Ready<br>to Work</h2>
 					</div>
 				</div>	
@@ -43,7 +43,7 @@
 							</div>
 							<div class="col-lg-12 mt-4">
 								<label for="message"></label>
-								<textarea name="message" id="message" placeholder="Tell Us Everything"></textarea>
+								<textarea name="message" id="message" placeholder="Message Me Anything"></textarea>
 							</div>
 							<div class="col-lg-12 mt-4">
 								<div id="button-con"><button class="send_message js-tilt" id="send" data-lang="en" data-tilt-perspective="300" data-tilt-speed="700" data-tilt-max="24"><span>submit</span></button></div>					
@@ -75,13 +75,11 @@
 					<div class="row">
 						<div class="col-lg-6 con-det">
 							<h6>Email:</h6>
-							<p>office@elpis.com</p>
-							<p>support@elpis.com</p>
+							<p>mail.rfkaryan@gmail.com</p>
 						</div>
 						<div class="col-lg-6 mt-4 mt-lg-0 con-det">
 							<h6>Tel:</h6>
-							<p>+1 234 78364236</p>
-							<p>+1 173 83559208</p>
+							<p>+62 838 2092 8130</p>
 						</div>
 					</div>
 				</div>
@@ -89,7 +87,7 @@
 		</div>
 	</div>
 
-	<div class="section">
+	{{-- <div class="section">
 		<div id="cd-google-map">
 			<div id="google-container"></div>
 			<div id="cd-zoom-in"></div>
@@ -118,6 +116,6 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> --}}
 
 @endsection

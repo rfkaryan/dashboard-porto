@@ -6,14 +6,14 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 parallax-fade-top">
-                        <p>who we are</p>	
-                        <h2>Brand & Website<br>Design Studio</h2>
+                        <p>get to know me</p>	
+                        <h2>Hello!<br>I'm Rifki Aria</h2>
                     </div>
                 </div>	
             </div>
         </div>
     </div>
-
+{{-- 
     <div class="section">
         <div class="container">
             <div class="row">
@@ -24,7 +24,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
 
     <div class="section padding-top-bottom-big">
         <div class="container">
@@ -32,13 +32,13 @@
                 <div class="col-md-4">
                     <div class="sec-titile">
                         <div class="subtitle">
-                            about us
+                            about me
                         </div>	
                     </div>	
                 </div>
                 <div class="col-md-8 mt-5 mt-md-0">
-                    <p class="lead">Design must reflect the practical and aesthetic in business but above all... good design must primarily serve people.</p>
-                    <p>Some people think design means how it looks. But of course, if you dig deeper, it's really how it works. Design must reflect the practical and aesthetic in business but above all... good design must primarily serve people. Space and light and order. Those are the things that men need just as much as they need bread or a place to sleep</p>	
+                    <p class="lead">I'm Rifki Aria Nugraha. A twenty years old student who still hungry for new experience.</p>
+                    <p>I learn Web Development since 2020 and still learning about it. I am familiar with basic HTML, CSS, JS, and some of framework of it. Apart from web development, I am also enthusiast to Data Analyst and Graphic Design, and have a little experience on it.</p>	
                 </div>
             </div>
         </div>
@@ -49,32 +49,32 @@
             <div class="row">
                 <div class="col-md-2 mb-4 mb-md-0">
                     <div class="logo-img">
-                        <img src="img/logos/d1.png" alt="">
+                        <img src="/img/logos/html.png" alt="">
                     </div>
                 </div>
                 <div class="col-md-2 mb-4 mb-md-0">
                     <div class="logo-img">
-                        <img src="img/logos/d2.png" alt="">
+                        <img src="/img/logos/react.png" alt="">
                     </div>
                 </div>
                 <div class="col-md-2 mb-4 mb-md-0">
                     <div class="logo-img">
-                        <img src="img/logos/d3.png" alt="">
+                        <img src="/img/logos/laravel.png" alt="">
                     </div>
                 </div>
                 <div class="col-md-2 mb-4 mb-md-0">
                     <div class="logo-img">
-                        <img src="img/logos/d4.png" alt="">
+                        <img src="/img/logos/python.png" alt="">
                     </div>
                 </div>
                 <div class="col-md-2 mb-4 mb-md-0">
                     <div class="logo-img">
-                        <img src="img/logos/d5.png" alt="">
+                        <img src="/img/logos/tailwind.png" alt="">
                     </div>
                 </div>
                 <div class="col-md-2">
                     <div class="logo-img">
-                        <img src="img/logos/d6.png" alt="">
+                        <img src="img/logos/datastudio.png" alt="">
                     </div>
                 </div>
             </div>
@@ -87,76 +87,46 @@
                 <div class="col-md-4">
                     <div class="sec-titile">
                         <div class="subtitle">
-                            the crew
+                            experience
                         </div>	
                     </div>	
                 </div>
                 <div class="col-md-8 mt-5 mt-md-0">
-                    <p class="lead">We're a close team of creatives, designers & developers who work together.</p>	
+                    <p class="lead">I have several experiences that make me grow.</p>	
                 </div>
                 <div class="offset-md-4 col-md-8 mt-5">	
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="team-mem js-tilt" data-tilt-perspective="800" data-tilt-speed="700" data-tilt-max="10">
-                                <img src="img/team1.jpg" alt="">
+                                <img src="/img/experience1.png" alt="">
                                 <div class="team-mask"></div>
-                                <ul class="team-soc">
-                                    <li>
-                                        <a href="#"><i class="fa fa-github"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fa fa-facebook-f"></i></a>
-                                    </li>
-                                </ul>
                             </div>
                             <div class="team-info">
-                                <p>identity building</p>
-                                <h5>Alex Andrews</h5>
+                                <p>Yayasan Anak Bangsa Bisa & GoTo</p>
+                                <h5>Data Analyst Apprenticeship</h5>
                             </div>		
                         </div>
                         <div class="col-lg-6 mt-4 mt-lg-0">
                             <div class="team-mem js-tilt" data-tilt-perspective="800" data-tilt-speed="700" data-tilt-max="10">
-                                <img src="img/team2.jpg" alt="">
+                                <img src="/img/experience2.png" alt="">
                                 <div class="team-mask"></div>
-                                <ul class="team-soc">
-                                    <li>
-                                        <a href="#"><i class="fa fa-twitter"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fa fa-github"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fa fa-linkedin"></i></a>
-                                    </li>
-                                </ul>
                             </div>	
                             <div class="team-info">
-                                <p>web development</p>
-                                <h5>Anna Kulis</h5>
+                                <p>STIMIK Amik Bandung</p>
+                                <h5>IT Support</h5>
                             </div>
                         </div>
                         <div class="col-lg-6 mt-4">
                             <div class="team-mem js-tilt" data-tilt-perspective="800" data-tilt-speed="700" data-tilt-max="10">
-                                <img src="img/team3.jpg" alt="">
+                                <img src="/img/experience3.png" alt="">
                                 <div class="team-mask"></div>
-                                <ul class="team-soc">
-                                    <li>
-                                        <a href="#"><i class="fa fa-twitter"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fa fa-github"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fa fa-facebook-f"></i></a>
-                                    </li>
-                                </ul>
                             </div>	
                             <div class="team-info">
-                                <p>design process</p>
-                                <h5>Frank Furius</h5>
+                                <p>Four Seasons Idn</p>
+                                <h5>Graphic Designer</h5>
                             </div>
                         </div>
-                        <div class="col-lg-6 mt-4">
+                        {{-- <div class="col-lg-6 mt-4">
                             <div class="team-mem js-tilt" data-tilt-perspective="800" data-tilt-speed="700" data-tilt-max="10">
                                 <img src="img/team4.jpg" alt="">
                                 <div class="team-mask"></div>
@@ -173,7 +143,7 @@
                                 <p>support manager</p>
                                 <h5>Sandra Furius</h5>
                             </div>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>
@@ -186,7 +156,7 @@
                 <div class="col-md-4">
                     <div class="sec-titile">
                         <div class="subtitle">
-                            stuff to note
+                            training & certificate
                         </div>	
                     </div>	
                 </div>
@@ -195,29 +165,40 @@
                         <div class="col-lg-6">	
                             <div class="services background-grey js-tilt" data-tilt-perspective="800" data-tilt-speed="700" data-tilt-max="10">	
                                 <img src="img/services1.svg" alt="">
-                                <h6>Audience Grow</h6>
-                                <p>Good design must primarily serve people.</p>
+                                <h6>IBM Certification</h6>
+                                <p>- Enterprise Design Thinking Practitioner</p><br>
+                                <p>- Python for Data Science</p><br>
+                                <p>- Data Science Foundations</p><br>
+                                <p>- Data Science Methodologies</p><br>
+                                <p>- Data Science Tools</p><br>
                             </div>
                         </div>
                         <div class="col-lg-6 mt-4 mt-lg-0">	
                             <div class="services background-grey js-tilt" data-tilt-perspective="800" data-tilt-speed="700" data-tilt-max="10">	
                                 <img src="img/services2.svg" alt="">
-                                <h6>A Jump Start</h6>
-                                <p>Good design must primarily serve people.</p>
+                                <h6>Cisco Networking Academy</h6>
+                                <p>- PCAP (Programming Essentials In Python English 1021b)</p><br>
+                                <p>- NDG Linux</p><br>
+                                <p>- Cybersecurity Essentials</p><br>
+                                <p>- Networking Essentials</p><br>
                             </div>
                         </div>
                         <div class="col-lg-6 mt-4">	
                             <div class="services background-grey js-tilt" data-tilt-perspective="800" data-tilt-speed="700" data-tilt-max="10">	
                                 <img src="img/services3.svg" alt="">
-                                <h6>Brands To Life</h6>
-                                <p>Good design must primarily serve people.</p>
+                                <h6>Dicoding Indonesia</h6>
+                                <p>- Cloud Practitioner Essentials</p><br>
+                                <p>- Architecting on AWS Cloud</p>
+                                <p>- Basic Web Programming</p><br>
                             </div>
                         </div>
                         <div class="col-lg-6 mt-4">	
                             <div class="services background-grey js-tilt" data-tilt-perspective="800" data-tilt-speed="700" data-tilt-max="10">	
                                 <img src="img/services4.svg" alt="">
-                                <h6>Design Process</h6>
-                                <p>Good design must primarily serve people.</p>
+                                <h6>Training</h6>
+                                <p>- Professional Academy (PROA) - Data Visualization by Kominfo</p><br>
+                                <p>- Data Analyst Career Track by DQLab</p><br>
+                                <p>- Data Analyst Apprenticeship by YABB & GoTo</p><br>
                             </div>
                         </div>
                     </div>
@@ -232,8 +213,8 @@
                 <div class="offset-md-4 col-md-5">
                     <div class="contact-info">
                         <h5>Let´s talk</h5>
-                        <p>We are always looking for new challenges and interesting parterns. Also, we love to say hello.</p>
-                        <a href="contact.html" class="js-tilt" data-tilt-perspective="300" data-tilt-speed="700" data-tilt-max="24"><span>contact</span></a>
+                        <p>I always looking for new challenges and interesting patterns. Also, It'll be great to say hello.</p>
+                        <a href="/contact" class="js-tilt" data-tilt-perspective="300" data-tilt-speed="700" data-tilt-max="24"><span>contact</span></a>
                     </div>
                 </div>
             </div>
