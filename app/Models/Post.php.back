@@ -1,0 +1,52 @@
+<?php
+
+namespace App\Models;
+
+// use Illuminate\Database\Eloquent\Factories\HasFactory;
+// use Illuminate\Database\Eloquent\Model;
+
+class Post
+{
+    private static $blog_posts = [
+        [
+            "title" => "RAS Ecommerce",
+            "slug" => "project-pertama",
+            "tech" => "Laravel",
+            "image" => "portofolio1.jpeg",
+            "category" => "web"
+        ],
+        [
+            "title" => "Web Kelas (Decade)",
+            "slug" => "project-kedua",
+            "tech" => "HTML, CSS & JS Only",
+            "image" => "portofolio2.jpeg",
+            "category" => "web"
+        ],
+        [
+            "title" => "Data Visualization",
+            "slug" => "project-ketiga",
+            "tech" => "SQL, Google Data Studio, & Python",
+            "image" => "portofolio3.jpeg",
+            "category" => "data"
+        ]
+    ];
+
+    public static function all()
+    {
+        return collect(self::$blog_posts);
+    }
+
+    public static function find($slug)
+    {
+        $posts = static::all();
+        // $post = [];
+
+        // foreach ($posts as $p) {
+        //     if ($p["slug"] === $slug) {
+        //         $post = $p;
+        //     }
+        // }
+
+        return $posts->firstWhere('slug', $slug);
+    }
+}
