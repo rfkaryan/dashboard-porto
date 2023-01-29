@@ -40,25 +40,22 @@
                     <img src="img/portfolio/project/5.jpg" alt="">
                 </div>
             </div>
-            <div class="col-md-6 mt-4" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
-                <div class="video-section">
-                    <figure class="vimeo tipped" data-title="<em><small>play</small></em>"
-                        data-tipper-options='{"direction":"top","follow":"true","margin":5}'>
-                        <a href="https://player.vimeo.com/video/219627581">
-                            <img src="img/portfolio/project/1.jpg" alt="image" />
-                        </a>
-                    </figure>
-                </div>
-            </div>
-            <div class="col-md-6 mt-4" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
-                <div class="video-section">
-                    <figure class="vimeo tipped" data-title="<em><small>play</small></em>"
-                        data-tipper-options='{"direction":"top","follow":"true","margin":5}'>
-                        <a href="https://player.vimeo.com/video/219627581">
-                            <img src="img/portfolio/project/3.jpg" alt="image" />
-                        </a>
-                    </figure>
-                </div>
+            
+            <div id="projects-grid" class="elements-fade-on-hover">
+                    <a href="#">
+                        <div class="portfolio-box photo tipped" data-title="<em>branding</em><strong>Contour</strong>" data-tipper-options='{"direction":"bottom","follow":"true","margin":25}'>
+                            <div class="parallax-elements js-tilt" data-tilt-perspective="600" data-tilt-speed="700" data-tilt-max="10">
+                                <img src="/img/portfolio/2.jpg" alt="">
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#">
+                        <div class="portfolio-box photo tipped" data-title="<em>branding</em><strong>Contour</strong>" data-tipper-options='{"direction":"bottom","follow":"true","margin":25}'>
+                            <div class="parallax-elements js-tilt" data-tilt-perspective="600" data-tilt-speed="700" data-tilt-max="10">
+                                <img src="/img/portfolio/2.jpg" alt="">
+                            </div>
+                        </div>
+                    </a>
             </div>
             <div class="offset-md-2 col-md-8 padding-top-bottom"
                 data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
