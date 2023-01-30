@@ -19,7 +19,12 @@ return new class extends Migration {
             $table->text('tech');
             $table->text('category');
             $table->text('image');
-            $table->text('body');
+            $table->text('imgpro1');
+            $table->text('imgpro2');
+            $table->text('imgpro3');
+            $table->text('imgpro4');
+            $table->text('overview');
+            $table->text('about');
             $table->timestamp('published_at')->nullable();
             $table->timestamps();
         });
